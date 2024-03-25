@@ -1,0 +1,31 @@
+new project——empty activity
+
+
+
+
+
+
+
+
+AndroidStudio环境.gradle和.android路径配置：https://blog.csdn.net/song53536/article/details/127346519?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170919788616800192257176%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170919788616800192257176&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-127346519-null-null.142^v99^pc_search_result_base1&utm_term=android%20studio%E7%9A%84.Android&spm=1018.2226.3001.4187
+
+切换回英文 文件-设置-插件-取消勾选中文插件
+
+
+
+https://blog.csdn.net/m0_54144956/article/details/125499855?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170970925416800227496380%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170970925416800227496380&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-125499855-null-null.142^v99^pc_search_result_base1&utm_term=eclipse%E5%BF%AB%E6%8D%B7%E9%94%AE&spm=1018.2226.3001.4187
+CTRL F 搜索
+Ctrl + / ：注释或取消当前行
+Ctrl + Shift + / ：注释多行  Ctrl + Shift + \ ：取消多行注释
+Ctrl + D ：删除当前行
+Ctrl + M ：窗口最大化和还原
+Ctrl + K 和 Ctrl + Shift + K ：快速向下和向上查找选定的内容，从此不再需要用鼠标单击查找对话框了
+Ctrl + Shift + T ：查找工作空间（Workspace）构建路径中的可找到Java类文件，不要为找不到类而痛苦，而且可以使用“*”、“？”等通配符
+Ctrl + G ：查找当前元素的声明
+Ctrl + Shift + G ：查找类、方法和属性的引用。这是一个非常实用的快捷键，例如要修改引用某个方法的代码，可以通过此快捷键迅速定位所有引用此方法的位置
+
+layout文件：https://blog.csdn.net/kgb2333/article/details/134522790
+activity_main.xml
+
+
+@string/app_name资源引用，表示对res/values/strings.xml所设置具体资源app_name的引用
